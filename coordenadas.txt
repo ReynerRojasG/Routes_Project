@@ -1,0 +1,3 @@
+Coordenada: (508, 161)
+Coordenada: (379, 143)
+Coordenada: (264, 186)

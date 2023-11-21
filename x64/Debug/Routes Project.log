@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\Reiner\source\repos\Routes Project\MouseEvents.h(12,73): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\Reiner\source\repos\Routes Project\MouseEvents.h(12,52): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Routes Project.vcxproj -> C:\Users\Reiner\source\repos\Routes Project\x64\Debug\Routes Project.exe
